@@ -71,5 +71,13 @@ In particular, the government research is of great significance in terms of ethi
 
 However, it is not ethical to carry out the second type analysis listed in question 8. Topics like discrimination is relatively sensitive, especially in contemporary society with the Internet developing rapidly. If such research results are released on the Internet, some hosts and guests may suffer from online violence because they choose their guests or houses according to gender and race.
 
+---
+### Bibliography
+[1]	M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City,” Tomslee.net, pp. 1–16, 2016, [Online]. Available: http://tomslee.net/how-airbnb- hid-the- facts-in- nyc.
+
+[2]	K. Crawford and M. Finn, “The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters,” GeoJournal, vol. 80, no. 4, pp. 491–502, 2015, doi: 10.1007/s10708-014-9597-z.
+
+[3]	M. Cheng and C. Foley, “The sharing economy and digital discrimination: The case of Airbnb,” Int. J. Hosp. Manag., vol. 70, no. October 2017, pp. 95–98, 2018, doi: 10.1016/j.ijhm.2017.11.002.
+
 
  
