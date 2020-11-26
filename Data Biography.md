@@ -6,7 +6,7 @@ The data was collected by Inside Airbnb website, which was launched by Murray Co
 
 ---
 ### 2. Why did they collect it?
-They collected the data and did some analysis to investigate the way Airbnb is being used in cities all over the world and advocate people to protect the residential communities. Besides the data were also used to analyze whether there is illegal renting.
+They collected the data to do some analysis to investigate the way Airbnb is being used in cities all over the world and advocate people to protect the residential communities. Besides the data were also used to analyze whether there is illegal renting.
 
 ---
 ### 3. How was it collected?
@@ -31,7 +31,7 @@ In this part, the information about rental the consumers need to know is contain
 ---
 ### 5.What useful information is it missing?
 
-More detailed information about rental is missing which consumers need to make a decision. For example, the dataset should include deposit, cancellation policy, cleaning fee, whether guests’ photos and phone number are required and so on. Besides, some columns don’t have values and they should be dropped.
+More detailed information about rental is missing. For example, the data should include deposit, cancellation policy, cleaning fee, whether guests’ photos and phone number are required. Besides, some columns lack many values such as host_response_rate, host_acceptance_rate. But these information is useful when analyze whether the host influence the guests’ decision.
 
 ---
 
@@ -73,7 +73,7 @@ However, it is not ethical to carry out the second type analysis listed in quest
 
 ---
 ### Bibliography
-[1]	M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City,” Tomslee.net, pp. 1–16, 2016, [Online]. Available: http://tomslee.net/how-airbnb- hid-the- facts-in- nyc.
+[1]	M. Cox and T. Slee, “How Airbnb’s data hid the facts in New York City,” Tomslee.net, pp. 1–16, 2016, [Online]. Available: http://tomslee.net/how-airbnb-hid-the-facts-in-nyc.
 
 [2]	K. Crawford and M. Finn, “The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters,” GeoJournal, vol. 80, no. 4, pp. 491–502, 2015, doi: 10.1007/s10708-014-9597-z.
 
