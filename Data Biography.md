@@ -29,7 +29,7 @@ This part includes some information about the house which is going to be rented.
 In this part, the information about rental the consumers need to know is contained, such as price, amenities and the reviews of the house. 
 
 ---
-### 5.What useful information is it missing?
+### 5. What useful information is it missing?
 
 More detailed information about rental is missing. For example, the data should include deposit, cancellation policy, cleaning fee, whether guests’ photos and phone numbers are required. Besides, some columns lack many values such as host_response_rate, host_acceptance_rate. But these information is useful when analyzing whether the host influence the guests’ decision.
 
@@ -51,6 +51,7 @@ The data can support a lot of analysis.
 Firstly, it can be used to do some basic analysis, such as “How many houses are for rental in London?” and “Which hosts received better review”. We can also set some conditions and find the houses which meet all the conditions. And what’s more, an app can be developed to recommend the houses for consumers based on this analysis. 
 
 Secondly, the data can be also used by the government. It is obvious that Airbnb has an impact on residential communities. The government may need to know how Airbnb influences it and change the policies in time. Besides, the government can rely on the data to supervise the house rental market. 
+
 At last, the data can support the analysis carried out by real estate companies and economical institutions in London to find out how Airbnb influence the local real estate and economy.
 
 ---
