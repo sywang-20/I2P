@@ -31,7 +31,7 @@ In this part, the information about rental the consumers need to know is contain
 ---
 ### 5.What useful information is it missing?
 
-More detailed information about rental is missing. For example, the data should include deposit, cancellation policy, cleaning fee, whether guests’ photos and phone number are required. Besides, some columns lack many values such as host_response_rate, host_acceptance_rate. But these information is useful when analyze whether the host influence the guests’ decision.
+More detailed information about rental is missing. For example, the data should include deposit, cancellation policy, cleaning fee, whether guests’ photos and phone numbers are required. Besides, some columns lack many values such as host_response_rate, host_acceptance_rate. But these information is useful when analyzing whether the host influence the guests’ decision.
 
 ---
 
