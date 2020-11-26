@@ -10,7 +10,7 @@ They collected the data to do some analysis to investigate the way Airbnb is bei
 
 ---
 ### 3. How was it collected?
-The data analysis and visualization activists scraped the Airbnb website to collect the public information displayed on the Airbnb website like names, photos, reviews, availability and so on. Then, they verified, cleaned, analyzed and aggregate the data.
+The data analysis and visualization activists scraped the Airbnb website to collect the public information displayed on the Airbnb website like names, photos, reviews, availability and so on. Then, they verified, cleaned, analyzed and aggregated the data.
 
 ---
 ### 4. What useful information does it contain?
